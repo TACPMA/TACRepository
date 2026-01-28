@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_xwKX4fwpEfCppYjjaw2wKA" label="PMA" description="" language="java" technicalLabel="PMA" author="_xwKX4vwpEfCppYjjaw2wKA" productVersion="Talend Data Integration-8.0.1.20250218_0945-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/TACPMA/TACRepository.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" bigData="false">
+  <TalendProperties:Project xmi:id="_xwKX4fwpEfCppYjjaw2wKA" label="PMA" description="" language="java" technicalLabel="PMA" author="_xwKX4vwpEfCppYjjaw2wKA" productVersion="Talend Data Integration-8.0.1.20250218_0945-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/TACPMA/TACRepository.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3" bigData="false">
     <migrationTask xmi:id="_x1yewPwpEfCppYjjaw2wKA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_xwKX4vwpEfCppYjjaw2wKA" login="tacadmin@pma.ps" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
