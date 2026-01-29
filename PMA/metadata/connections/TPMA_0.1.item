@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_fblbYE5vEe67BezOMGfGPQ" name="TPMA" id="_KU7KsE5vEe67BezOMGfGPQ" label="TPMA" dataPackage="_hZtKQN2QEe6MTvMoE1TDlw" DatabaseType="Oracle with SID" DriverClass="oracle.jdbc.OracleDriver" URL="jdbc:oracle:thin:@172.16.14.9:1525:tpma" dbVersionString="ORACLE_11" Port="1525" Username="mdaher" Password="enc:system.encryption.key.v1:hdbKOhaOCGX6Ae4jJO2B+eA33OQ5XvWMyj96nOifGpnnVopG3Q==" ServerName="172.16.14.9" DatasourceName="" FileFieldName="" SID="tpma" SqlSynthax="" StringQuote="" NullChar="" DbmsId="oracle_id" ProductId="ORACLE" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="MDAHER" supportNLS="false">
+    <taggedValue xmi:id="_fbnQkE5vEe67BezOMGfGPQ" tag="Is Conn Need Reload" value="true"/>
+    <taggedValue xmi:id="_fcEjkE5vEe67BezOMGfGPQ" tag="package filter" value=""/>
+    <taggedValue xmi:id="_fcLRQE5vEe67BezOMGfGPQ" tag="Status" value=""/>
+    <taggedValue xmi:id="_fcLRQU5vEe67BezOMGfGPQ" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_fcLRQk5vEe67BezOMGfGPQ" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_fcLRQ05vEe67BezOMGfGPQ" tag="Description" value=""/>
+    <taggedValue xmi:id="_fcLRRE5vEe67BezOMGfGPQ" tag="Author" value=""/>
+    <taggedValue xmi:id="_fcLRRU5vEe67BezOMGfGPQ" tag="otherParameter"/>
+    <taggedValue xmi:id="_fceMME5vEe67BezOMGfGPQ" tag="DB ProductName" value="Oracle"/>
+    <taggedValue xmi:id="_fceMMU5vEe67BezOMGfGPQ" tag="DB ProductVersion" value="Oracle Database 11g Enterprise Edition Release 11.2.0.4.0 - 64bit Production&#xA;With the Partitioning, OLAP, Data Mining and Real Application Testing options"/>
+    <taggedValue xmi:id="_fceMMk5vEe67BezOMGfGPQ" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_fbnQkU5vEe67BezOMGfGPQ" key="CONN_PARA_KEY_USERNAME" value="mdaher"/>
+    <parameters xmi:id="_NrAakGNIEe67BezOMGfGPQ" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_hZtKQN2QEe6MTvMoE1TDlw" name="MDAHER" dataManager="_fblbYE5vEe67BezOMGfGPQ"/>
+</xmi:XMI>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_j_hccE52Ee67BezOMGfGPQ" name="PMA" id="_X5UfoE52Ee67BezOMGfGPQ" label="PMA" dataPackage="_kAVUwE52Ee67BezOMGfGPQ" DatabaseType="Oracle with SID" DriverClass="oracle.jdbc.OracleDriver" URL="jdbc:oracle:thin:@172.16.1.101:15003:pma" dbVersionString="ORACLE_11" Port="15003" Username="sys as sysdba" Password="enc:system.encryption.key.v1:ai/2VkF9tpzwii/p334gxZ0MrhyJC7pC4QXnf0hdhaPuVJVmNRs=" ServerName="172.16.1.101" DatasourceName="" FileFieldName="" SID="pma" SqlSynthax="" StringQuote="" NullChar="" DbmsId="oracle_id" ProductId="ORACLE" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="CBIS" supportNLS="false">
+    <taggedValue xmi:id="_j_hccU52Ee67BezOMGfGPQ" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_j_2MkE52Ee67BezOMGfGPQ" tag="package filter" value=""/>
+    <taggedValue xmi:id="_j_2MkU52Ee67BezOMGfGPQ" tag="Status" value=""/>
+    <taggedValue xmi:id="_j_2Mkk52Ee67BezOMGfGPQ" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_j_2Mk052Ee67BezOMGfGPQ" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_j_2MlE52Ee67BezOMGfGPQ" tag="Description" value=""/>
+    <taggedValue xmi:id="_j_2MlU52Ee67BezOMGfGPQ" tag="Author" value=""/>
+    <taggedValue xmi:id="_j_2Mlk52Ee67BezOMGfGPQ" tag="otherParameter"/>
+    <taggedValue xmi:id="_kAE2EE52Ee67BezOMGfGPQ" tag="DB ProductName" value="Oracle"/>
+    <taggedValue xmi:id="_kAE2EU52Ee67BezOMGfGPQ" tag="DB ProductVersion" value="Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production&#xA;With the Partitioning, Oracle Label Security, OLAP, Data Mining&#xA;and Real Application Testing options"/>
+    <taggedValue xmi:id="_kAE2Ek52Ee67BezOMGfGPQ" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_j_hcck52Ee67BezOMGfGPQ" key="CONN_PARA_KEY_USERNAME" value="sys as sysdba"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_kAVUwE52Ee67BezOMGfGPQ" name="CBIS" dataManager="_j_hccE52Ee67BezOMGfGPQ"/>
+</xmi:XMI>
