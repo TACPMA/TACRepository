@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <recyclebin:RecycleBin xmlns:recyclebin="http://www.talend.org/recyclebin">
+  <deletedFolders>process/CBIS/CBIS</deletedFolders>
+  <deletedFolders>process/REPO</deletedFolders>
+  <deletedFolders>process/TPMA_2_TCMA</deletedFolders>
   <deletedItems id="_-I_8AIGVEe6_tMyYKf8BVQ" path="" type="PROCESS"/>
   <deletedItems id="_6pLAgH9jEe6_tMyYKf8BVQ" path="" type="PROCESS"/>
   <deletedItems id="_75mFMIGVEe6_tMyYKf8BVQ" path="" type="PROCESS"/>
   <deletedItems id="_BpiDgIGWEe6_tMyYKf8BVQ" path="" type="PROCESS"/>
+  <deletedItems id="_I0X-cI91Ee-_OdLzVkGayw" path="" type="PROCESS"/>
   <deletedItems id="_Ik5c4H9WEe6_tMyYKf8BVQ" path="" type="PROCESS"/>
   <deletedItems id="_KxJgwH9QEe6_tMyYKf8BVQ" path="" type="PROCESS"/>
+  <deletedItems id="_PW00MHo_Ee-iHvsxczH71w" path="" type="PROCESS"/>
+  <deletedItems id="_RaAiEI92Ee-_OdLzVkGayw" path="" type="PROCESS"/>
   <deletedItems id="_ad5EEIGNEe6_tMyYKf8BVQ" path="" type="PROCESS"/>
   <deletedItems id="_k5yAQIRjEe6SA7DghE8VRg" path="" type="PROCESS"/>
+  <deletedItems id="_oYU3EPwvEfCvYYz0L27vqA" path="" type="PROCESS"/>
   <deletedItems id="_reZvYFPeEe-jEvSJti6-hg" path="" type="PROCESS"/>
+  <deletedItems id="_w3jgUI9xEe-_OdLzVkGayw" path="" type="PROCESS"/>
+  <deletedItems id="_43mYME5uEe67BezOMGfGPQ" path="TPMA_2_TCMA" type="PROCESS"/>
+  <deletedItems id="_VmrTAN2OEe6MTvMoE1TDlw" path="TPMA_2_TCMA" type="PROCESS"/>
 </recyclebin:RecycleBin>
